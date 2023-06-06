@@ -6,6 +6,10 @@
   flex-direction: row;
 }
 
+#navBar .left {
+  width: 50%;
+}
+
 #navBar .left a {
   width: auto;
   display: block;
@@ -13,7 +17,7 @@
 }
 
 #navBar .right {
-  width: 100%;
+  width: 50%;
   text-align: right;
   justify-content: end;
 }
